@@ -1,4 +1,4 @@
-# PORTFOLIO OPTIMIZATION:
+# PORTFOLIO OPTIMIZATION PROJECT
 • TASKS:        
 o Project Overview and Import Libraries          
 o Collecting and inspecting data        
